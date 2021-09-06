@@ -20,7 +20,7 @@ Product id is the primary key which has all the values of a particular product. 
 Transaction history is maintained by the file sale.json and also "update" dictionary. Transaction Id is the unique key which is generated as the max number of all keys plus one. It has feautures of name, product ID, quantity purchased, amount of that order and time of the order purchased.
 
 # About Me
-I'm Shruti, a student persuing by BTech in the field of Computer Science and Engineering. I'm new to the field of data science and Python. Aiming to learn and explore more.
+I'm Shruti, a student persuing BTech in the field of Computer Science and Engineering. I'm new to the field of data science and Python. Aiming to learn and explore more.
 
 # Important Links
 https://www.linkedin.com/in/shruti-mittal-1a85521b8
